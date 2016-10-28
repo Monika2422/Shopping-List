@@ -7,8 +7,10 @@ Login
 
 Name:
 ...................//input type text
+
 Shop:
 ...................//input type text
+
 
 Sopping list //- button
 
@@ -21,9 +23,13 @@ Shopping list
 
 3.layout
 Add object            Add//-button
+
 name:
 ................ //input type
+
 number:
 ................ //input type
+
 description:
 ................ //input type
+
