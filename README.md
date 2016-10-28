@@ -3,6 +3,7 @@ Aplicatia va permite vizualizarea listei de cumparaturi adaugarea unui nou produ
 
 
 1.layout
+
 Login
 
 Name:
@@ -15,6 +16,7 @@ Shop:
 Sopping list //- button
 
 2.layout
+
 List
 
 Shopping list  
@@ -22,6 +24,7 @@ Shopping list
 +//- add new product
 
 3.layout
+
 Add object            Add//-button
 
 name:
